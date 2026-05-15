@@ -83,20 +83,8 @@ feitos nas áreas de análise de dados, banco de dados, python e ETL completo. A
   
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src= "https://github-readme-stats.vercel.app/api?username=YanTheodoro&show_icons=true](https://github-readme-stats.vercel.app/api?username=YanTheodoro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+<br clear="both">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanTheodoro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-<p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YanTheodoro&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
+</div>
