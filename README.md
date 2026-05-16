@@ -13,7 +13,7 @@ Estou constantemente aprimorando minhas habilidades em análise, visualização 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/YanTheodoro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white">      
     </a>
-    <a href = "milto: yanctheodoro99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href = "mailto:yanctheodoro99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/yan-c-theodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       
