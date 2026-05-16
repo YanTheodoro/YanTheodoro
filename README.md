@@ -11,11 +11,9 @@ Estou constantemente aprimorando minhas habilidades em análise, visualização 
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/YanTheodoro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white">      
-    </a>
+            src="https://custom-icon-badges.demolab.com/github/followers/YanTheodoro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"></a>
    <a href="https://discord.gg/UmN3SN2r" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yanctheodoro99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-    </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yanctheodoro99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
     <a href="https://www.linkedin.com/in/yan-c-theodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       
  ---
